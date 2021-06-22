@@ -1,0 +1,13 @@
+.box{
+    width: 75%;
+    border: 5px solid black;
+    padding: 50px;
+    margin: auto;
+}
+
+
+.rowText
+{
+    display: inline-block;
+}
+
