@@ -16,7 +16,7 @@ class InputBox extends Component {
     addTask(e) {
         if (this._inputElement.value !== "") {
             var addedTask = {
-                taskDescription: this._inputElement.value,
+                taskDescription: this._inputElement.value
             };
          
             this.setState((prevState) => {
